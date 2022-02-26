@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I spend most of my time watching 
 
-Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12">
+Most used line of code is ``git commit -m "session"`` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12">
 
 :information_source: You can reach me at : :arrow_down:
 
