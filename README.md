@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 -->
 ## Hi there!  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<p> Welcome to my GitHub Profile! <br> <strong> I'm Mavericks </strong> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>, a self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines </b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan </b>.
+### Welcome to my GitHub Profile! <br>
+## I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
 
-I spend most of my time learning how to code by watching tutorials and reading contents about HTML, CSS, and JavaScript.
+<p>A self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines </b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan </b>. </p>
 
-Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12">
+<p>I spend most of my time learning how to code by watching tutorials and reading contents about HTML, CSS, and JavaScript. I started my coding journey end of January 2022.</p>
+
+<p> My most used line of code is `git commit -m "session"` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12"> </p>
 
 :information_source: You can reach me at : :arrow_down:
 
@@ -34,7 +37,7 @@ Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.
 #### :fire: My GitHub Stats :
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-#### :computer: My Coding Stats :
+#### :computer: My Weekly Metrics :
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
