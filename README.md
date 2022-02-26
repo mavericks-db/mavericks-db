@@ -41,4 +41,4 @@ Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.
 ------------
 #### Profile Visits
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev)
