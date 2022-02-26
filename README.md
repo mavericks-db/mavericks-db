@@ -34,6 +34,10 @@ Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.
 #### :fire: My GitHub Stats :
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+### :computer: My Coding Stats :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ------------
 #### Profile Visits
 
