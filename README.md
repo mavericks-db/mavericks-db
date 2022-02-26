@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Hi there!  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<p> Welcome to my GitHub Profile! <br> I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>, a self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines </b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan </b>.
+<p> Welcome to my GitHub Profile! <br> <strong> I'm Mavericks </strong> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>, a self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines </b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan </b>.
 
-<img src="https://cdn-icons.flaticon.com/png/512/2967/premium/2967878.png?token=exp=1645901496~hmac=f0e297bdef5df7db04f906da83fda97a" width="12"> You can reach me at :
+:information_source: You can reach me at :
 
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
 [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
