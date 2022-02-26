@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
 
 ### Technologies I code with
-<img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/>
-<img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/>
-<img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/>
-<img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/>
-<img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/>
-<img alt="Visual-Studio-Code" width="140px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"/>
+<img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/> <img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/> <img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/> <img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/> <img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/> <img alt="Visual-Studio-Code" width="140px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"/>
 
 
