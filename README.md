@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <p> Welcome to my GitHub Profile! <br> <strong> I'm Mavericks </strong> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>, a self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines </b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan </b>.
 
-I spend most of my time watching 
+I spend most of my time learning how to code by watching youtube tutorials and reading related content about HTML, CSS, and JavaScript.
 
-Most used line of code is ``git commit -m "session"`` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12">
+Most used line of code is `'git commit -m "session"'` <img src="https://cdn-icons.flaticon.com/png/512/1240/premium/1240970.png?token=exp=1645902921~hmac=8e9b913bc1c8cc0b7704c8dd30553365" width="12">
 
 :information_source: You can reach me at : :arrow_down:
 
