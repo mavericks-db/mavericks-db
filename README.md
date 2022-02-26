@@ -34,10 +34,6 @@ Most used line of code is `git commit -m "session"` <img src="https://cdn-icons.
 #### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mavericks-db&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ------------
 #### Profile Visits
 
