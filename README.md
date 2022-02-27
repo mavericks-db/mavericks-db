@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 #### :computer: My Weekly Metrics :
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ------------
