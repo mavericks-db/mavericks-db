@@ -36,9 +36,16 @@ Here are some ideas to get you started:
 
 #### :computer: My Weekly Metrics :
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   1 hr 24 mins    ████████████░░░░░░░░░░░░░   48.07 %
+Markdown     59 mins         ████████▒░░░░░░░░░░░░░░░░   33.79 %
+HTML         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
+
 <!--END_SECTION:waka-->
 
 ------------
