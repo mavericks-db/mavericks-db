@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ```text
 From: 20 February 2022 - To: 27 February 2022
 
+Total Time: 2 hrs 55 mins
+
 JavaScript   1 hr 24 mins    ████████████░░░░░░░░░░░░░   48.07 %
 Markdown     59 mins         ████████▒░░░░░░░░░░░░░░░░   33.79 %
 HTML         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
