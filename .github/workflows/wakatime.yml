@@ -19,7 +19,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SHOW_TITLE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
