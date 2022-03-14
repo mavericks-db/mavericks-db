@@ -56,14 +56,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Total Time: 1 hr 52 mins
+Total Time: 2 hrs 51 mins
 
-JavaScript   54 mins         ████████████░░░░░░░░░░░░░   48.65 %
-CSS          30 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
-HTML         24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown     1 hr 1 min      █████████░░░░░░░░░░░░░░░░   36.09 %
+JavaScript   54 mins         ████████░░░░░░░░░░░░░░░░░   32.00 %
+CSS          30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+HTML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
