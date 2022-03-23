@@ -57,16 +57,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-Total Time: 28 hrs 19 mins
+Total Time: 32 hrs 8 mins
 
-CSS          15 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.92 %
-HTML         8 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-JavaScript   1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Markdown     1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-SCSS         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+CSS          19 hrs 49 mins  ███████████████▒░░░░░░░░░   61.13 %
+HTML         8 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+JavaScript   1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+SCSS         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
