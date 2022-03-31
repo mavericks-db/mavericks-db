@@ -57,16 +57,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-Total Time: 25 hrs 55 mins
+Total Time: 22 hrs 19 mins
 
-CSS          9 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   35.55 %
-JavaScript   8 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
-HTML         5 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Markdown     1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Ruby         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript   10 hrs 27 mins  ███████████▓░░░░░░░░░░░░░   46.85 %
+HTML         5 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+CSS          4 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Markdown     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Ruby         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
