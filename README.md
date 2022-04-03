@@ -34,9 +34,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 </h2>
 <h2 align="center">
 🛠️ Languages and Tools :
-</h2>
-<div align="center">
-<table>
+<table align="center">
     <tr>
         <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
         <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
@@ -49,18 +47,19 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
 </table>
+</h2>
+
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
+
 <h2 align="center">
 ⚡ My Stats :
-</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
-</div>
-<div align="center">
+</h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://github.com/mavericks-db)
 
