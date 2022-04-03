@@ -19,9 +19,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <p align="center">A self-taught software developer from 🇵🇭 <b> Manila, Philippines</b>, currently based in 🇺🇿 <b> Fergana, Uzbekistan</b>. </p>
 
-<p align="center">I spend most of my time learning how to code by watching tutorials and reading contents about HTML, CSS, and JavaScript. I started my coding journey end of January 2022. I was accepted as a full-time Microverse student mid of March 2022.</p>
+<p align="center">I spend most of my time learning how to code by watching tutorials and reading material contents about HTML, CSS, and JavaScript. I started my coding journey end of January 2022. I was accepted as a full-time Microverse student mid of March 2022.</p>
 
-<p align="center"> My most used line of code is `git commit -m "initial commit"` 👨‍💻</p>
+<p align="center"> My most used line of code is `git commit -m "Add .gitignore file"` 👨‍💻</p>
 
 <h3 align="center">
 ℹ️ You can reach me at : ⬇️
@@ -61,14 +61,12 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 </h3>
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
-
-</div>
-<div align="center">
-
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://badges.pufler.dev)
+</div>
