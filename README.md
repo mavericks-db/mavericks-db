@@ -25,19 +25,16 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <h2 align="center">
 ℹ️ You can reach me at : ⬇️
-<br />
-<div align="center">
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
 [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
 [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
 [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
-</div>
 </h2>
 <h2 align="center">
 🛠️ Languages and Tools :
-<br />
+</h2>
 <div align="center">
 <table>
     <tr>
@@ -52,22 +49,17 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
 </table>
-</div>
-</h2>
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h2 align="center">
 ⚡ My Stats :
-<br />
-<div align="center">
+</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
 </div>
-</h2>
-
 <div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://github.com/mavericks-db)
