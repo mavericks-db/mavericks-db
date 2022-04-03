@@ -23,9 +23,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <p align="center"> My most used line of code is `git commit -m "Add .gitignore file"` 👨‍💻</p>
 
-<h3 align="center">
+<h2 align="center">
 ℹ️ You can reach me at : ⬇️
-</h3>
+</h2>
 <div align="center">
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
@@ -35,9 +35,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
 
 </div>
-<h3 align="center">
+<h2 align="center">
 🛠️ Languages and Tools :
-</h3>
+</h2>
 <div align="center">
 <table>
     <tr>
@@ -56,9 +56,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
-<h3 align="center">
+<h2 align="center">
 ⚡ My Stats :
-</h3>
+</h2>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
@@ -68,7 +68,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories)
+[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://github.com/mavericks-db)
 
 [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db)
 </div>
