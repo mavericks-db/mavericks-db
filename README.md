@@ -57,34 +57,17 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h3 align="center">
-:fire: My GitHub Stats :
+:fire: My Stats :
 </h3>
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
 </div>
-<h3 align="center">
-:computer: My Weekly Metrics :
-</h3>
-<h5 align="center">
-<!--START_SECTION:waka-->
 
-```text
-From: 26 March 2022 - To: 02 April 2022
+<div align="center">
 
-Total Time: 27 hrs 12 mins
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
 
-JavaScript   13 hrs 6 mins   ████████████░░░░░░░░░░░░░   48.21 %
-HTML         6 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
-CSS          6 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
-<!--END_SECTION:waka-->
-
----
 </div>
 <h3 align="center">
 Profile Visits
