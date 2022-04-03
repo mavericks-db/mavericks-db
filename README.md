@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<p align="center">A self-taught software developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330493.png" width="12"> <b> Manila, Philippines</b>, currently based in <img src="https://cdn-icons-png.flaticon.com/512/330/330495.png" width="12"> <b> Fergana, Uzbekistan</b>. </p>
+<p align="center">A self-taught software developer from 🇵🇭 <b> Manila, Philippines</b>, currently based in 🇺🇿 <b> Fergana, Uzbekistan</b>. </p>
 
 <p align="center">I spend most of my time learning how to code by watching tutorials and reading contents about HTML, CSS, and JavaScript. I started my coding journey end of January 2022. I was accepted as a full-time Microverse student mid of March 2022.</p>
 
-<p align="center"> My most used line of code is `git commit -m "initial commit"` 💻</p>
+<p align="center"> My most used line of code is `git commit -m "initial commit"` 👨‍💻</p>
 
 <h3 align="center">
-:information_source: You can reach me at : :arrow_down:
+ℹ️ You can reach me at : ⬇️
 </h3>
 <div align="center">
 
@@ -36,7 +36,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 </div>
 <h3 align="center">
-:hammer_and_wrench: Languages and Tools :
+🛠️ Languages and Tools :
 </h3>
 <div align="center">
 <table>
@@ -57,7 +57,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h3 align="center">
-:fire: My Stats :
+⚡ My Stats :
 </h3>
 <div align="center">
 
@@ -69,8 +69,6 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
 
 </div>
-<h3 align="center">
-Profile Visits
+<div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev)
-</h3>
+[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://badges.pufler.dev)
