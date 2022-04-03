@@ -61,7 +61,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 </h3>
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=tokyonight)
 </div>
 <h3 align="center">
 :computer: My Weekly Metrics :
