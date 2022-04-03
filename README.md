@@ -49,7 +49,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
         <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
         <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="140px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
+        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
 </table>
 </div>
