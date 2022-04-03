@@ -23,7 +23,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <p align="center"> My most used line of code is `git commit -m "initial commit"` 💻</p>
 
-<div align="center">
+<h3 align="center">
 :information_source: You can reach me at : :arrow_down:
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
@@ -31,9 +31,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
 [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
 [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
-</div>
-<div align="center">
-#### :hammer_and_wrench: Languages and Tools :
+</h3>
+<h3 align="center">
+:hammer_and_wrench: Languages and Tools :
 
 <table>
     <tr>
@@ -48,18 +48,19 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
         <img alt="Visual-Studio-Code" width="140px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
 </table>
-</div>
+</h3>
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
-<div align="center">
-#### :fire: My GitHub Stats :
+<h3 align="center">
+:fire: My GitHub Stats :
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
-</div>
-<div align="center">
-#### :computer: My Weekly Metrics :
-
+</h3>
+<h3 align="center">
+:computer: My Weekly Metrics :
+</h3>
+<h5 align="center">
 <!--START_SECTION:waka-->
 
 ```text
@@ -79,8 +80,8 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 
 ---
 </div>
-<div align="center">
-#### Profile Visits
+<h3 align="center">
+Profile Visits
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev)
-</div>
+</h3>
