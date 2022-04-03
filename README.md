@@ -24,7 +24,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <p align="center"> My most used line of code is `git commit -m "Add .gitignore file"` 👨‍💻</p>
 
 <h2 align="center">
-ℹ️ You can reach me at : ⬇️
+ℹ️ You can reach me at : 
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
