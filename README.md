@@ -25,6 +25,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <h3 align="center">
 :information_source: You can reach me at : :arrow_down:
+<br>
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
@@ -34,7 +35,9 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 </h3>
 <h3 align="center">
 :hammer_and_wrench: Languages and Tools :
-
+</h3>
+<br>
+<div align="center">
 <table>
     <tr>
         <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
@@ -48,13 +51,13 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
         <img alt="Visual-Studio-Code" width="140px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
 </table>
-</h3>
+</div>
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h3 align="center">
 :fire: My GitHub Stats :
-
+<br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
 </h3>
 <h3 align="center">
