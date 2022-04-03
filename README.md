@@ -25,18 +25,19 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <h3 align="center">
 :information_source: You can reach me at : :arrow_down:
-<br>
+</h3>
+<div align="center">
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
 [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
 [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
 [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
-</h3>
+
+</div>
 <h3 align="center">
 :hammer_and_wrench: Languages and Tools :
 </h3>
-<br>
 <div align="center">
 <table>
     <tr>
@@ -57,7 +58,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h3 align="center">
 :fire: My GitHub Stats :
-<br>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
 </h3>
 <h3 align="center">
