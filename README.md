@@ -58,9 +58,11 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h3 align="center">
 :fire: My GitHub Stats :
+</h3>
+<div align="center">
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&count_private=true&theme=tokyonight&hide=contribs,prs)
-</h3>
+</div>
 <h3 align="center">
 :computer: My Weekly Metrics :
 </h3>
