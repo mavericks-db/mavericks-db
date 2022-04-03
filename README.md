@@ -69,4 +69,6 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://badges.pufler.dev)
+
+![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)
 </div>
