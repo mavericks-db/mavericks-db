@@ -25,6 +25,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 <h2 align="center">
 ℹ️ You can reach me at : ⬇️
+<br>
 <div align="center">
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
@@ -36,6 +37,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 </h2>
 <h2 align="center">
 🛠️ Languages and Tools :
+<br>
 <div align="center">
 <table>
     <tr>
@@ -57,6 +59,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 <h2 align="center">
 ⚡ My Stats :
+<br>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
