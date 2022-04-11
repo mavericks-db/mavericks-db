@@ -53,9 +53,11 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 ⚡ My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)](https://github.com/mavericks-db/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
+
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db)
 </h2>
 
 <div align="center">
