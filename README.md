@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<p align="center">A self-taught software developer from 🇵🇭 <b> Manila, Philippines</b>, currently based in 🇺🇿 <b> Fergana, Uzbekistan</b>. </p>
+<h2 align="center">A software developer from Philippines</h2>
 
-<p align="center">I spend most of my time learning how to code by watching tutorials and reading material contents about HTML, CSS, and JavaScript. I started my coding journey end of January 2022. I was accepted as a full-time Microverse student mid of March 2022.</p>
+<p align="center">I spend most of my time learning how to code by watching tutorials and reading material contents about HTML, CSS, and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student at Microverse.</p>
 
 <p align="center"> My most used line of code is `git commit -m "Add .gitignore file"` 👨‍💻</p>
 
 <h2 align="center">
-ℹ️ You can reach me at : 
+
+---
+📬You can reach me at : 
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
@@ -57,12 +59,15 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db)
+<!-- ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db) -->
 </h2>
 
+---
 <div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://github.com/mavericks-db)
+
+[![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
 [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db)
 </div>
