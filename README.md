@@ -5,7 +5,8 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 ```
 🌱 A self-taught software developer from the Philippines.
 
-👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS, and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student at Microverse.
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS,
+and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote studentat Microverse.
 
 🎓 I graduated in University of the Philippines - Diliman with a degree in BS Civil Engineering.
 
@@ -43,7 +44,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 
 
-<h2 align ="center">⚡ My Stats :</h2>
+<h2 align ="center">⚡ My Stats :
 <div >
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
