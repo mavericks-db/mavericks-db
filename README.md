@@ -1,31 +1,24 @@
-<!--
-**mavericks-db/mavericks-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">
 Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<h2 align="center">A software developer from Philippines</h2>
+<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 
-<p align="center">I spend most of my time learning how to code by watching tutorials and reading material contents about HTML, CSS, and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student at Microverse.</p>
+```
+🌱 A self-taught software developer from the Philippines.
 
-<p align="center"> My most used line of code is `git commit -m "Add .gitignore file"` 👨‍💻</p>
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS, and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student at Microverse.
+
+🎓 I graduated in University of the Philippines - Diliman with a degree in BS Civil Engineering.
+
+💻 My most used line of code is git commit -m "Add .gitignore file"
+
+```
+---
+
 
 <h2 align="center">
 
----
 📬You can reach me at : 
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
@@ -53,19 +46,25 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 
-⚡ My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&layout=compact)
+<h2 align ="center">⚡ My Stats :</h2>
+<div >
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
+</div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mavericks-db&show_icons=true&theme=default)
 
-<!-- ![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db) -->
-</h2>
+
+
+<!-- <h2>Weekly Coding Stats</h2>
+
+
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
 
 ---
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db)](https://github.com/mavericks-db)
+[![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
 
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
