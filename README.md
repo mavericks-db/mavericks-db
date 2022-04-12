@@ -44,14 +44,11 @@ at Microverse.
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 
-
 <h2 align ="center">⚡ My Stats :
 <div >
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
 </div>
-
-
 
 
 <!-- <h2>Weekly Coding Stats</h2>
@@ -69,4 +66,14 @@ at Microverse.
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
 
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01)
+---
+
+<a href="https://github.com/mavericks-db/capstone01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
+</a>
+<a href="https://github.com/mavericks-db/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=portfolio" />
+</a>
+
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
