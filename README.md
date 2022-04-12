@@ -80,4 +80,6 @@ Current Projects
 </a>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile!;Have+a+good+day!)](https://git.io/typing-svg)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
