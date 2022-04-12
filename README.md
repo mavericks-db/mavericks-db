@@ -6,9 +6,10 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 🌱 A self-taught software developer from the Philippines.
 
 👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS,
-and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote studentat Microverse.
+and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student
+at Microverse.
 
-🎓 I graduated in University of the Philippines - Diliman with a degree in BS Civil Engineering.
+🎓 I graduated in University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
 
 💻 My most used line of code is git commit -m "Add .gitignore file"
 
@@ -16,7 +17,7 @@ and JavaScript. I started my coding journey on January 2022. Currently, I am stu
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <h2 align="center">
 
-📬You can reach me at : 
+📬 You can reach me at : 
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
@@ -65,5 +66,7 @@ and JavaScript. I started my coding journey on January 2022. Currently, I am stu
 
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
-[![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db)
+<!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
+
+[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01)
