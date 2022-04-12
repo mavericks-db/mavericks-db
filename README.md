@@ -2,8 +2,6 @@
 Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
-<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
-
 ```
 🌱 A self-taught software developer from the Philippines.
 
@@ -14,9 +12,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 💻 My most used line of code is git commit -m "Add .gitignore file"
 
 ```
----
-
-
+<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <h2 align="center">
 
 📬You can reach me at : 
