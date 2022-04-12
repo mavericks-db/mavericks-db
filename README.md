@@ -13,6 +13,8 @@ at Microverse.
 
 💻 My most used line of code is git commit -m "Add .gitignore file"
 
+🥅 My goals for this year are to find a fulfilling job after completing the program, contribute to open source projects, collaborate and help other students in Microverse
+
 ```
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <h2 align="center">
@@ -67,6 +69,7 @@ at Microverse.
 </div>
 
 ---
+Current Projects
 
 <a href="https://github.com/mavericks-db/capstone01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
