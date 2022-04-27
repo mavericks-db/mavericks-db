@@ -41,10 +41,14 @@ to open source projects, collaborate and help other students in Microverse
         <td align="center">
         <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
+    <tr>
+      <td align="center"><img alt="Node.js" width="75px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></td>
+      <td align="center"><img alt="Git" width="50px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
+      <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
+    </tr>
 </table>
 
 
-<!-- <td align="center"><img alt="Git" width="45px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td> -->
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
