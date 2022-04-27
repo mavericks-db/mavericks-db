@@ -5,8 +5,7 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 ```
 🌱 A self-taught software developer from the Philippines.
 
-👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, CSS,
-and JavaScript. I started my coding journey on January 2022. Currently, I am studying as a remote student
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about softwar. I started my coding journey on February 2022. Currently, I am studying as a remote student
 at Microverse.
 
 🎓 I graduated in University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
