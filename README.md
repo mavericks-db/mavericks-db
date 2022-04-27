@@ -49,7 +49,6 @@ to open source projects, collaborate, and help other students in Microverse
     </tr>
 </table>
 
----
 
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
@@ -76,6 +75,7 @@ to open source projects, collaborate, and help other students in Microverse
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
 
+---
 Current Projects
 
 <a href="https://github.com/mavericks-db/capstone01">
