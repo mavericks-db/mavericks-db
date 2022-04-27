@@ -11,12 +11,13 @@ at Microverse.
 
 🎓 I graduated in University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
 
-💻 My most used line of code is git commit -m "Add .gitignore file"
+💻 My most used line of code is git commit -m "Create .gitignore file"
 
 🥅 My goals for this year are to find a fulfilling job after completing the program, collaborate and contribute
-to open source projects, collaborate and help other students in Microverse
+to open source projects, collaborate, and help other students in Microverse
 
 ```
+---
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <h2 align="center">
 
@@ -48,6 +49,7 @@ to open source projects, collaborate and help other students in Microverse
     </tr>
 </table>
 
+---
 
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
@@ -65,7 +67,6 @@ to open source projects, collaborate and help other students in Microverse
 
 <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
 
----
 <div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
@@ -75,7 +76,6 @@ to open source projects, collaborate and help other students in Microverse
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
 
----
 Current Projects
 
 <a href="https://github.com/mavericks-db/capstone01">
