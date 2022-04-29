@@ -11,10 +11,10 @@ at Microverse.
 
 🎓 I graduated in University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
 
-💻 My most used line of code is git commit -m "Create .gitignore file"
+💻 My most used line of code is git commit -m "Create .gitignore file".
 
 🥅 My goals for this year are to find a fulfilling job after completing the program, collaborate and contribute
-to open source projects, collaborate, and help other students in Microverse
+to open source projects and help other students in Microverse.
 
 ```
 ---
