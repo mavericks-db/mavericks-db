@@ -76,9 +76,9 @@ to open source projects, collaborate, and help other students in Microverse
 </div>
 
 
-
+---
 <details>
-  <summary align='left'>Microverse Certificate</summary>
+  <summary align='center'>Microverse Certificate</summary>
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44#gs.yxrk1w" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> </td>
