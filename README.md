@@ -70,7 +70,9 @@ to open source projects and help other students in Microverse.
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
 
-![Most Active GitHub User Rank](https://enb9l6ncqqewegw.m.pipedream.net)
+<a href = "https://commits.top/philippines.html" target="_blank">
+	<img src="https://enb9l6ncqqewegw.m.pipedream.net" alt="mavericks-db" target="_blank"/>
+</a>
 
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
