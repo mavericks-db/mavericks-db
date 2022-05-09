@@ -21,7 +21,7 @@ to open source projects and help other students in Microverse.
 <img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
 <h2 align="center">
 
-📬 You can reach me at : 
+📬 You can reach me at :
 
 [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
@@ -70,7 +70,10 @@ to open source projects and help other students in Microverse.
 
 [![Visits Badge](https://badges.pufler.dev/visits/mavericks-db/mavericks-db?color=blue)](https://github.com/mavericks-db) [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
 
+![Most Active GitHub User Rank](https://enb9l6ncqqewegw.m.pipedream.net)
+
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
+
 
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
@@ -89,11 +92,11 @@ to open source projects and help other students in Microverse.
 ---
 Current Projects
 
-<a href="https://github.com/mavericks-db/capstone01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
-</a>
 <a href="https://github.com/mavericks-db/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=portfolio" />
+</a>
+<a href="https://github.com/mavericks-db/capstone01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone01" />
 </a>
 <a href="https://github.com/mavericks-db/awesome-books-ES6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=awesome-books-ES6" />
@@ -101,10 +104,12 @@ Current Projects
 <a href="https://github.com/mavericks-db/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=todo-list" />
 </a>
+<a href="https://github.com/mavericks-db/leaderboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=leaderboard" />
+</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together 🚀 <em>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
