@@ -81,7 +81,7 @@ to open source projects and help other students in Microverse.
 
 ---
 <details>
-  <summary align='center'><img align="center" src="./assets/horizontal-logo-murple.png" width="200"/></summary>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/horizontal-logo-murple.png" width="200"/></a></summary>
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44#gs.yxrk1w" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> </td>
