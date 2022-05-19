@@ -109,6 +109,9 @@ Current Projects
 <a href="https://github.com/mavericks-db/leaderboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=leaderboard" />
 </a>
+<a href="https://github.com/mavericks-db/capstone02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone02" />
+</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
 
