@@ -33,7 +33,6 @@ to open source projects and help other students in Microverse.
 
   <h2 align="center">
 🛠️ Languages and Tools :
-</h2>
 
 <table align="center">
     <tr>
@@ -53,6 +52,7 @@ to open source projects and help other students in Microverse.
       <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
     </tr>
 </table>
+</h2>
       </td>
       <td>
       <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g" width="auto" />
