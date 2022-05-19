@@ -22,7 +22,6 @@ to open source projects and help other students in Microverse.
   <tr>
     <td>
   <h2 align="center">
-
   📬 You can reach me at :
 
   [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
@@ -31,17 +30,8 @@ to open source projects and help other students in Microverse.
   [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
   [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
   </h2>
-      </td>
-      <td>
-      <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g" width="auto" />
-      </td>
-    </tr>
-</table>
 
-
-
-<h2 align="center">
-
+  <h2 align="center">
 🛠️ Languages and Tools :
 </h2>
 
@@ -63,7 +53,12 @@ to open source projects and help other students in Microverse.
       <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
     </tr>
 </table>
-
+      </td>
+      <td>
+      <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g" width="auto" />
+      </td>
+    </tr>
+</table>
 
 <!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
@@ -77,7 +72,6 @@ to open source projects and help other students in Microverse.
 
 
 <!-- <h2>Weekly Coding Stats</h2>
-
 
 <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
 
