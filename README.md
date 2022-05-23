@@ -49,7 +49,12 @@ to open source projects and help other students in Microverse.
     <tr>
       <td align="center"><img alt="Node.js" width="75px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></td>
       <td align="center"><img alt="Git" width="50px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
+      <td align="center"><img alt="npm" width="60px" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=plastic"/></td>
+    </tr>
+    <tr>
       <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
+      <td align="center"><img alt="Jest" width="55px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></td>
+      <td align="center"><img alt="React" width="70px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></td>
     </tr>
 </table>
 </h2>
@@ -60,7 +65,7 @@ to open source projects and help other students in Microverse.
     </tr>
 </table>
 
-<!-- <img alt="React" width="64px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/>
+<!--
 <img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/>
 <img alt="Ruby-on-Rails" width="110px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/> -->
 
@@ -96,6 +101,7 @@ to open source projects and help other students in Microverse.
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44#gs.yxrk1w" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> </td>
+    <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a#gs.1ks4o0" target="blank"><img src="./assets/javascript-badge.png" width="80"></a> </td>
   </tr>
 </table>
 </details>
