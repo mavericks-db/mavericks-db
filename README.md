@@ -101,7 +101,6 @@ to open source projects and help other students in Microverse.
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44#gs.yxrk1w" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
-    &nbsp; &nbsp; &nbsp;
     <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a#gs.1ks4o0" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
   </tr>
 </table>
