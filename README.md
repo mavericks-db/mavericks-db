@@ -5,13 +5,17 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 ```
 🌱 A self-taught software developer from the Philippines.
 
-👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about React, Sass, and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student at Microverse.
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about React, Sass,
+and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student
+at Microverse.
 
 🎓 I graduated from the University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
 
 💻 My most used line of code is git commit -m "Create .gitignore file".
 
-🥅 My main goal after completing the program is to be able to secure a full stack web developer job position, as well as collaborate and contribute to open source projects, and assist other students in Microverse as a volunteer mentor.
+🥅 My main goal after completing the program is to be able to secure a full stack web developer job position,
+as well as collaborate and contribute to open source projects, and assist other students in Microverse
+as a volunteer mentor.
 
 ```
 ---
