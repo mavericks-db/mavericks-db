@@ -14,8 +14,8 @@ at Microverse.
 💻 My most used line of code is git commit -m "Create .gitignore file".
 
 🥅 My main goal after completing the program is to be able to secure a full stack web developer job position,
-as well as collaborate and contribute to open source projects, and assist other students in Microverse
-as a volunteer mentor.
+as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
+volunteer mentor.
 
 ```
 ---
