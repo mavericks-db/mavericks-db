@@ -60,7 +60,7 @@ to open source projects and help other students in Microverse.
 </h2>
       </td>
       <td>
-      <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g" width="auto" />
+      <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="auto" />
       </td>
     </tr>
 </table>
