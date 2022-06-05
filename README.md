@@ -5,16 +5,13 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 ```
 🌱 A self-taught software developer from the Philippines.
 
-👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about HTML, Sass,
-and JavaScript. I started my coding journey on February 2022. Currently, I am studying as a remote student
-at Microverse.
+👨‍💻 I spend most of my time learning to code by watching tutorials and reading materials about React, Sass, and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student at Microverse.
 
-🎓 I graduated in University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
+🎓 I graduated from the University of the Philippines - Diliman with a degree in 🏗 BS Civil Engineering.
 
 💻 My most used line of code is git commit -m "Create .gitignore file".
 
-🥅 My goals for this year are to find a fulfilling job after completing the program, collaborate and contribute
-to open source projects and help other students in Microverse.
+🥅 My main goal after completing the program is to be able to secure a full stack web developer job position, as well as collaborate and contribute to open source projects, and assist other students in Microverse as a volunteer mentor.
 
 ```
 ---
@@ -36,25 +33,35 @@ to open source projects and help other students in Microverse.
 
 <table align="center">
     <tr>
+      <td align="center"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></td>
+      <td align="center"><img alt="Redux" width="70px" src="https://img.shields.io/badge/-Redux-white?logo=Redux&logoColor=764ABC&style=plastic"/></td>
+      <td align="center"><img alt="React-Router" width="115px" src="https://img.shields.io/badge/-React %20Router-white?logo=React-Router&logoColor=CA4245&style=plastic"/></td>
+    </tr>
+    <tr>
         <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
         <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
         <td align="center"><img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/></td>
     </tr>
     <tr>
         <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
-        <td align="center"><img alt="Sass" width="60px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></td>
+        <td align="center"><img alt="Sass" width="58px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="85px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
+        <img alt="Visual-Studio-Code" width="82px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
     </tr>
     <tr>
-      <td align="center"><img alt="Node.js" width="75px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></td>
       <td align="center"><img alt="Git" width="50px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
+      <td align="center"><img alt="Node.js" width="77px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></td>
       <td align="center"><img alt="npm" width="60px" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=plastic"/></td>
     </tr>
     <tr>
       <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
-      <td align="center"><img alt="Jest" width="55px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></td>
-      <td align="center"><img alt="React" width="70px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></td>
+      <td align="center"><img alt="Jest" width="57px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></td>
+      <td align="center"><img alt="Babel" width="65px" src="https://img.shields.io/badge/-Babel-white?logo=Babel&logoColor=F9DC3E&style=plastic"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img alt="Netlify" width="70px" src="https://img.shields.io/badge/-Netlify-white?logo=Netlify&logoColor=00C7B7&style=plastic"/></td>
+      <td align="center"><img alt="Heroku" width="72px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></td>
+      <td align="center"><img alt="GitHub-Pages" width="112px" src="https://img.shields.io/badge/-GitHub%20Pages-white?logo=GitHub-Pages&logoColor=222222&style=plastic"/></td>
     </tr>
 </table>
 </h2>
