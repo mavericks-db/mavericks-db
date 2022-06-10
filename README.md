@@ -21,10 +21,12 @@ volunteer mentor.
   <h2 align="center">
   📬 You can reach me at :
 
+  [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
+  [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/mavericks-db)
   [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
+
   [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
   [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
-  [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
   [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
   </h2>
 
@@ -104,7 +106,7 @@ volunteer mentor.
 
 ---
 <details>
-  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/horizontal-logo-murple.png" width="200"/></a></summary>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44#gs.yxrk1w" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
