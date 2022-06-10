@@ -13,6 +13,7 @@ at [Microverse](https://www.microverse.org/).
 🥅 My main goal after completing the program is to be able to secure a full-stack web developer job position,
 as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
 volunteer mentor.
+
 ---
 <table align="center">
   <tr>
