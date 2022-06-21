@@ -4,9 +4,9 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 🌱 A self-taught full-stack web developer from the [Philippines](https://en.wikipedia.org/wiki/Philippines).
 
-👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React, Sass,
-and JavaScript. I started my coding journey in March 2022. Currently, I am studying as a remote student
-at [Microverse](https://www.microverse.org/).
+👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
+Redux Toolkit, Sass, and JavaScript. I started my coding journey in March 2022.
+Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
 🎓 I graduated from the [University of the Philippines - Diliman](https://upd.edu.ph/) with a degree in 🏗 BS Civil Engineering.
 
@@ -144,6 +144,9 @@ Current Projects
 </a>
 <a href="https://github.com/mavericks-db/space-travelers-hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=space-travelers-hub" />
+</a>
+<a href="https://github.com/mavericks-db/capstone03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mavericks-db&repo=capstone03" />
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
