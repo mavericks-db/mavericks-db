@@ -35,41 +35,41 @@ volunteer mentor.
 
 <table align="center">
     <tr>
-      <td align="center"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></td>
-      <td align="center"><img alt="Redux" width="70px" src="https://img.shields.io/badge/-Redux-white?logo=Redux&logoColor=764ABC&style=plastic"/></td>
-      <td align="center"><img alt="React-Router" width="115px" src="https://img.shields.io/badge/-React %20Router-white?logo=React-Router&logoColor=CA4245&style=plastic"/></td>
+      <td align="center"><a href="https://reactjs.org/"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=61DAFB&style=plastic"/></a></td>
+      <td align="center"><a href="https://redux.js.org/"><img alt="Redux" width="70px" src="https://img.shields.io/badge/-Redux-white?logo=Redux&logoColor=764ABC&style=plastic"/></a></td>
+      <td align="center"><a href="https://reactrouter.com/"><img alt="React-Router" width="115px" src="https://img.shields.io/badge/-React %20Router-white?logo=React-Router&logoColor=CA4245&style=plastic"/></a></td>
     </tr>
     <tr>
-        <td align="center"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></td>
-        <td align="center"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></td>
-        <td align="center"><img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/></td>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" width="70px" src="https://img.shields.io/badge/-HTML5-white?logo=html5&logoColor=E34F26&style=plastic"/></a></td>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="60px" src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=plastic"/></a></td>
+        <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="90px" src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=plastic"/></a></td>
     </tr>
     <tr>
-        <td align="center"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
-        <td align="center"><img alt="Sass" width="58px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></td>
+        <td align="center"><a href="https://github.com/"><img alt="GitHub" width="70px" src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=plastic"/></td>
+        <td align="center"><img alt="Sass" width="58px" src="https://img.shields.io/badge/-Sass-white?logo=Sass&logoColor=CC6699&style=plastic"/></a></td>
         <td align="center">
-        <img alt="Visual-Studio-Code" width="82px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></td>
+        <a href="https://code.visualstudio.com/"><img alt="Visual-Studio-Code" width="82px" src="https://img.shields.io/badge/-VS%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=plastic"></a></td>
     </tr>
     <tr>
-      <td align="center"><img alt="Git" width="50px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></td>
-      <td align="center"><img alt="Node.js" width="77px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></td>
-      <td align="center"><img alt="npm" width="60px" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=plastic"/></td>
+      <td align="center"><a href="https://git-scm.com/"><img alt="Git" width="50px" src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=plastic"/></a></td>
+      <td align="center"><a href="https://nodejs.org/en/"><img alt="Node.js" width="77px" src="https://img.shields.io/badge/-Node.js-white?logo=Node.js&logoColor=339933&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.npmjs.com/"><img alt="npm" width="60px" src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=plastic"/></a></td>
     </tr>
     <tr>
-      <td align="center"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></td>
-      <td align="center"><img alt="Jest" width="57px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></td>
-      <td align="center"><img alt="Babel" width="65px" src="https://img.shields.io/badge/-Babel-white?logo=Babel&logoColor=F9DC3E&style=plastic"/></td>
+      <td align="center"><a href="https://webpack.js.org/"><img alt="Webpack" width="85px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></a></td>
+      <td align="center"><a href="https://jestjs.io/"><img alt="Jest" width="57px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></a></td>
+      <td align="center"><a href="https://babeljs.io/"><img alt="Babel" width="65px" src="https://img.shields.io/badge/-Babel-white?logo=Babel&logoColor=F9DC3E&style=plastic"/></a></td>
     </tr>
     <tr>
-      <td align="center"><img alt="Netlify" width="70px" src="https://img.shields.io/badge/-Netlify-white?logo=Netlify&logoColor=00C7B7&style=plastic"/></td>
-      <td align="center"><img alt="Heroku" width="72px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></td>
-      <td align="center"><img alt="GitHub-Pages" width="112px" src="https://img.shields.io/badge/-GitHub%20Pages-white?logo=GitHub-Pages&logoColor=222222&style=plastic"/></td>
+      <td align="center"><a href="https://www.netlify.com/"><img alt="Netlify" width="70px" src="https://img.shields.io/badge/-Netlify-white?logo=Netlify&logoColor=00C7B7&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.heroku.com/"><img alt="Heroku" width="72px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></a></td>
+      <td align="center"><a href="https://pages.github.com/"><img alt="GitHub-Pages" width="112px" src="https://img.shields.io/badge/-GitHub%20Pages-white?logo=GitHub-Pages&logoColor=222222&style=plastic"/></a></td>
     </tr>
 </table>
 </h2>
       </td>
       <td>
-      <img src="https://user-images.githubusercontent.com/98527559/175478228-76a55dfc-63a9-4a77-9712-d3a764f9882a.gif" width="auto" />
+      <img src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="auto" />
       </td>
     </tr>
 </table>
