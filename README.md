@@ -69,7 +69,7 @@ volunteer mentor.
 </h2>
       </td>
       <td>
-      <img src="https://user-images.githubusercontent.com/98527559/175477492-9a3ce1da-a0a5-4fb2-8bd0-a2abd2f62df7.gif" width="auto" />
+      <img src="https://user-images.githubusercontent.com/98527559/175478228-76a55dfc-63a9-4a77-9712-d3a764f9882a.gif" width="auto" />
       </td>
     </tr>
 </table>
