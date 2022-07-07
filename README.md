@@ -65,6 +65,11 @@ volunteer mentor.
       <td align="center"><a href="https://www.heroku.com/"><img alt="Heroku" width="72px" src="https://img.shields.io/badge/-Heroku-white?logo=Heroku&logoColor=430098&style=plastic"/></a></td>
       <td align="center"><a href="https://pages.github.com/"><img alt="GitHub-Pages" width="112px" src="https://img.shields.io/badge/-GitHub%20Pages-white?logo=GitHub-Pages&logoColor=222222&style=plastic"/></a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://www.ruby-lang.org/en/"><img alt="Ruby" width="60px" src="https://img.shields.io/badge/-Ruby-white?logo=Ruby&logoColor=CC342D&style=plastic"/></a></td>
+      <td align="center"><a href="https://rubyonrails.org/"><img alt="Ruby-on-Rails" width="130px" src="https://img.shields.io/badge/-Ruby%20on%20Rails-white?logo=Ruby%20on%20Rails&logoColor=CC0000&style=plastic"/></a></td>
+      <td align="center"><a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="105px" src="https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL&logoColor=4169E1&style=plastic"/></a></td>
+    </tr>
 </table>
 </h2>
       </td>
