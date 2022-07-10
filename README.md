@@ -5,7 +5,7 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 🌱 A self-taught full-stack web developer from the [Philippines](https://en.wikipedia.org/wiki/Philippines).
 
 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about React,
-Redux Toolkit, Sass, and JavaScript. I started my coding journey in March 2022.
+Redux Toolkit, Sass, JavaScript, Ruby, Rails and PostgreSQL. I started my coding journey in March 2022.
 Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
 🎓 I graduated from the [University of the Philippines - Diliman](https://upd.edu.ph/) with a degree in 🏗 BS Civil Engineering.
@@ -117,6 +117,15 @@ volunteer mentor.
     <td align="center"><a href="https://www.credential.net/c7621860-3a5c-4502-ab70-45d58ba77e44" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/b7dec4e6-1754-4eff-a6ab-076497cdef6a" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
+  </tr>
+</table>
+</details>
+
+<details>
+  <summary align='center'><a href="https://www.datacamp.com/"><img align="center" src="./assets/datacamp-logo.png" width="25"/></a> DataCamp Certificates</summary>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.datacamp.com/statement-of-accomplishment/course/1a731bb2d52db012afbd2b53eef3b9fb7dfbb810" target="blank"><img src="./assets/intro-sql.png" width="80"></a></td>
   </tr>
 </table>
 </details>
